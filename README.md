@@ -65,12 +65,6 @@
                     Kubernetes
                 </a>
             </td>
-            <td width="50" height="50" align="center">
-                <a>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-                    VSCode
-                </a>
-            </td>
         </tr>
     </tbody>
 </table>
