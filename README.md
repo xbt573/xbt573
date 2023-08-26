@@ -17,12 +17,6 @@
             </td>
             <td width="50" height="50" align="center">
                 <a>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-                    Bash
-                </a>
-            </td>
-            <td width="50" height="50" align="center">
-                <a>
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
                     Docker
                 </a>
